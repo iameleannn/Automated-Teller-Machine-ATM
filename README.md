@@ -3,6 +3,8 @@
 ## Overview
 This project is to simulate a scaled down version of an Automated Teller Machine (ATM) by using Object Orientation Principles (OOP) and their implementation in Python. VS Code is used for prefered IDE. 
 
+![istockphoto-1072288242-612x612-1](https://user-images.githubusercontent.com/70336265/179187114-7304f6b8-c0f5-4b10-92bd-049115e13bde.jpeg)
+
 
 # Limitations are placed in this scenerio. 
 
