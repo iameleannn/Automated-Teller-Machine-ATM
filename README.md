@@ -1,4 +1,4 @@
-# Automated-Teller-Machine-ATM
+# Automated Teller Machine (ATM)
 
 ## Overview
 This project is to simulate a scaled down version of an Automated Teller Machine (ATM) by using Object Orientation Principles (OOP) and their implementation in Python. VS Code is used for prefered IDE. 
